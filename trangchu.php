@@ -3,6 +3,7 @@
 
 
 <!-- Mirrored from htmldemo.net/corano/corano/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 29 Jun 2024 09:53:03 GMT -->
+
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
@@ -33,7 +34,7 @@
     <link rel="stylesheet" href="assets/css/plugins/jqueryui.min.css">
     <!-- main style css -->
     <link rel="stylesheet" href="assets/css/style.css">
-    
+
 </head>
 
 <body>
@@ -49,7 +50,7 @@
                 <!-- single slider item start -->
                 <div class="hero-single-slide hero-overlay">
                     <div class="hero-slider-item bg-img" data-bg="assets/img/slider/bancoc1.jpg">
-                        
+
                     </div>
                 </div>
                 <!-- single slider item start -->
@@ -57,7 +58,7 @@
                 <!-- single slider item start -->
                 <div class="hero-single-slide hero-overlay">
                     <div class="hero-slider-item bg-img" data-bg="assets/img/slider/bancoc2.jpg">
-                        
+
                     </div>
                 </div>
                 <!-- single slider item start -->
@@ -65,7 +66,7 @@
                 <!-- single slider item start -->
                 <div class="hero-single-slide hero-overlay">
                     <div class="hero-slider-item bg-img" data-bg="assets/img/slider/bancoc3.jpg">
-                        
+
                     </div>
                 </div>
                 <!-- single slider item end -->
@@ -135,7 +136,7 @@
                             <a href="#">
                                 <img src="assets/img/banner/bancoc4.png" alt="product banner">
                             </a>
-                            
+
                         </figure>
                     </div>
                     <div class="col-sm-6">
@@ -143,7 +144,7 @@
                             <a href="#">
                                 <img src="assets/img/banner/bancoc5.png" alt="product banner">
                             </a>
-                            
+
                         </figure>
                     </div>
                     <div class="col-sm-6">
@@ -151,7 +152,7 @@
                             <a href="#">
                                 <img src="assets/img/banner/bancoc1.png" alt="product banner">
                             </a>
-                            
+
                         </figure>
                     </div>
                     <div class="col-sm-6">
@@ -159,7 +160,7 @@
                             <a href="#">
                                 <img src="assets/img/banner/bancoc3.png" alt="product banner">
                             </a>
-                            
+
                         </figure>
                     </div>
                 </div>
@@ -167,7 +168,6 @@
         </div>
         <!-- banner statistics area end -->
 
-        <!-- product area start -->
         <section class="product-area section-padding">
             <div class="container">
                 <div class="row">
@@ -175,6 +175,191 @@
                         <!-- section title start -->
                         <div class="section-title text-center">
                             <h2 class="title">Sản phẩm mới</h2>
+                            <p class="sub-title">Thêm sản phẩm của chúng tôi vào giỏ hàng</p>
+                        </div>
+                        <!-- section title start -->
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-12">
+                        <div class="row mb ">
+                            <div class="boxtrai mr ">
+
+                                <div class="boxsp mr row">
+                                    <div class="img" style="width:25%;">
+                                        <a href="">
+                                            <img src="./assets/img/product/coc1.png" alt="Ảnh sản phẩm">
+                                            <p>
+                                                <span
+                                                    style="font-size: 1.1vw; text-decoration:line-through;color:gray">123
+                                                    VND</span>
+                                            </p>
+                                            <p>Cốc</p>
+                                        </a>
+                                    </div>
+                                    <div class="img" style="width:25%;">
+                                        <a href="">
+                                            <img src="./assets/img/product/coc1.png" alt="Ảnh sản phẩm">
+                                            <p>
+                                                <span
+                                                    style="font-size: 1.1vw; text-decoration:line-through;color:gray">123
+                                                    VND</span>
+                                            </p>
+                                            <p>Cốc</p>
+                                        </a>
+                                    </div>
+                                    <div class="img" style="width:25%;">
+                                        <a href="">
+                                            <img src="./assets/img/product/coc1.png" alt="Ảnh sản phẩm">
+                                            <p>
+                                                <span
+                                                    style="font-size: 1.1vw; text-decoration:line-through;color:gray">123
+                                                    VND</span>
+                                            </p>
+                                            <p>Cốc</p>
+                                        </a>
+                                    </div>
+                                    <div class="img" style="width:25%;">
+                                        <a href="">
+                                            <img src="./assets/img/product/coc1.png" alt="Ảnh sản phẩm">
+                                            <p>
+                                                <span
+                                                    style="font-size: 1.1vw; text-decoration:line-through;color:gray">123
+                                                    VND</span>
+                                            </p>
+                                            <p>Cốc</p>
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="boxsp mt-3 row">
+                                    <div class="img" style="width:25%;">
+                                        <a href="">
+                                            <img src="./assets/img/product/coc1.png" alt="Ảnh sản phẩm">
+                                            <p>
+                                                <span
+                                                    style="font-size: 1.1vw; text-decoration:line-through;color:gray">123
+                                                    VND</span>
+                                            </p>
+                                            <p>Cốc</p>
+                                        </a>
+                                    </div>
+                                    <div class="img" style="width:25%;">
+                                        <a href="">
+                                            <img src="./assets/img/product/coc1.png" alt="Ảnh sản phẩm">
+                                            <p>
+                                                <span
+                                                    style="font-size: 1.1vw; text-decoration:line-through;color:gray">123
+                                                    VND</span>
+                                            </p>
+                                            <p>Cốc</p>
+                                        </a>
+                                    </div>
+                                    <div class="img" style="width:25%;">
+                                        <a href="">
+                                            <img src="./assets/img/product/coc1.png" alt="Ảnh sản phẩm">
+                                            <p>
+                                                <span
+                                                    style="font-size: 1.1vw; text-decoration:line-through;color:gray">123
+                                                    VND</span>
+                                            </p>
+                                            <p>Cốc</p>
+                                        </a>
+                                    </div>
+                                    <div class="img" style="width:25%;">
+                                        <a href="">
+                                            <img src="./assets/img/product/coc1.png" alt="Ảnh sản phẩm">
+                                            <p>
+                                                <span
+                                                    style="font-size: 1.1vw; text-decoration:line-through;color:gray">123
+                                                    VND</span>
+                                            </p>
+                                            <p>Cốc</p>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- product area start -->
+
+        <!-- product area end -->
+
+        <!-- product banner statistics area start -->
+        <section class="product-banner-statistics">
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-12">
+                        <div class="product-banner-carousel slick-row-10">
+                            <!-- banner single slide start -->
+                            <div class="banner-slide-item">
+                                <figure class="banner-statistics">
+                                    <a href="#">
+                                        <img src="assets/img/banner/bancoc1.png" alt="product banner">
+                                    </a>
+
+                                </figure>
+                            </div>
+                            <!-- banner single slide start -->
+                            <!-- banner single slide start -->
+                            <div class="banner-slide-item">
+                                <figure class="banner-statistics">
+                                    <a href="#">
+                                        <img src="assets/img/banner/bancoc2.png" alt="product banner">
+                                    </a>
+
+                                </figure>
+                            </div>
+                            <!-- banner single slide start -->
+                            <!-- banner single slide start -->
+                            <div class="banner-slide-item">
+                                <figure class="banner-statistics">
+                                    <a href="#">
+                                        <img src="assets/img/banner/bancoc3.png" alt="product banner">
+                                    </a>
+
+                                </figure>
+                            </div>
+                            <!-- banner single slide start -->
+                            <!-- banner single slide start -->
+                            <div class="banner-slide-item">
+                                <figure class="banner-statistics">
+                                    <a href="#">
+                                        <img src="assets/img/banner/bancoc4.png" alt="product banner">
+                                    </a>
+
+                                </figure>
+                            </div>
+                            <!-- banner single slide start -->
+                            <!-- banner single slide start -->
+                            <div class="banner-slide-item">
+                                <figure class="banner-statistics">
+                                    <a href="#">
+                                        <img src="assets/img/banner/bancoc5.png" alt="product banner">
+                                    </a>
+
+                                </figure>
+                            </div>
+                            <!-- banner single slide start -->
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- product banner statistics area end -->
+
+        <!-- featured product area start -->
+        <!-- featured product area end -->
+        <section class="product-area section-padding">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12">
+                        <!-- section title start -->
+                        <div class="section-title text-center">
+                            <h2 class="title">Sản phẩm của chúng tôi</h2>
                             <p class="sub-title">Thêm sản phẩm của chúng tôi vào giỏ hàng</p>
                         </div>
                         <!-- section title start -->
@@ -200,8 +385,10 @@
                                         <div class="product-item">
                                             <figure class="product-thumb">
                                                 <a href="product-details.html">
-                                                    <img class="pri-img" src="assets/img/product/coc1.png" alt="product">
-                                                    <img class="sec-img" src="assets/img/product/coc1.png" alt="product">
+                                                    <img class="pri-img" src="assets/img/product/coc1.png"
+                                                        alt="product">
+                                                    <img class="sec-img" src="assets/img/product/coc1.png"
+                                                        alt="product">
                                                 </a>
                                                 <div class="product-badge">
                                                     <div class="product-label new">
@@ -211,13 +398,13 @@
                                                         <span>10%</span>
                                                     </div>
                                                 </div>
-                                                
+
                                                 <div class="cart-hover">
                                                     <button class="btn btn-cart">add to cart</button>
                                                 </div>
                                             </figure>
                                             <div class="product-caption text-center">
-                                                
+
                                                 <h6 class="product-name">
                                                     <a href="product-details.html">Perfect Diamond Jewelry</a>
                                                 </h6>
@@ -233,8 +420,10 @@
                                         <div class="product-item">
                                             <figure class="product-thumb">
                                                 <a href="product-details.html">
-                                                    <img class="pri-img" src="assets/img/product/coc1.png" alt="product">
-                                                    <img class="sec-img" src="assets/img/product/coc1.png" alt="product">
+                                                    <img class="pri-img" src="assets/img/product/coc1.png"
+                                                        alt="product">
+                                                    <img class="sec-img" src="assets/img/product/coc1.png"
+                                                        alt="product">
                                                 </a>
                                                 <div class="product-badge">
                                                     <div class="product-label new">
@@ -244,13 +433,13 @@
                                                         <span>10%</span>
                                                     </div>
                                                 </div>
-                                                
+
                                                 <div class="cart-hover">
                                                     <button class="btn btn-cart">add to cart</button>
                                                 </div>
                                             </figure>
                                             <div class="product-caption text-center">
-                                                
+
                                                 <h6 class="product-name">
                                                     <a href="product-details.html">Perfect Diamond Jewelry</a>
                                                 </h6>
@@ -259,11 +448,14 @@
                                                     <span class="price-old"><del>$70.00</del></span>
                                                 </div>
                                             </div>
-                                        </div><div class="product-item">
+                                        </div>
+                                        <div class="product-item">
                                             <figure class="product-thumb">
                                                 <a href="product-details.html">
-                                                    <img class="pri-img" src="assets/img/product/coc2.png" alt="product">
-                                                    <img class="sec-img" src="assets/img/product/coc2.png" alt="product">
+                                                    <img class="pri-img" src="assets/img/product/coc2.png"
+                                                        alt="product">
+                                                    <img class="sec-img" src="assets/img/product/coc2.png"
+                                                        alt="product">
                                                 </a>
                                                 <div class="product-badge">
                                                     <div class="product-label new">
@@ -273,13 +465,13 @@
                                                         <span>10%</span>
                                                     </div>
                                                 </div>
-                                                
+
                                                 <div class="cart-hover">
                                                     <button class="btn btn-cart">add to cart</button>
                                                 </div>
                                             </figure>
                                             <div class="product-caption text-center">
-                                                
+
                                                 <h6 class="product-name">
                                                     <a href="product-details.html">Perfect Diamond Jewelry</a>
                                                 </h6>
@@ -295,8 +487,10 @@
                                         <div class="product-item">
                                             <figure class="product-thumb">
                                                 <a href="product-details.html">
-                                                    <img class="pri-img" src="assets/img/product/coc3.png" alt="product">
-                                                    <img class="sec-img" src="assets/img/product/coc3.png" alt="product">
+                                                    <img class="pri-img" src="assets/img/product/coc3.png"
+                                                        alt="product">
+                                                    <img class="sec-img" src="assets/img/product/coc3.png"
+                                                        alt="product">
                                                 </a>
                                                 <div class="product-badge">
                                                     <div class="product-label new">
@@ -306,13 +500,13 @@
                                                         <span>10%</span>
                                                     </div>
                                                 </div>
-                                                
+
                                                 <div class="cart-hover">
                                                     <button class="btn btn-cart">add to cart</button>
                                                 </div>
                                             </figure>
                                             <div class="product-caption text-center">
-                                                
+
                                                 <h6 class="product-name">
                                                     <a href="product-details.html">Perfect Diamond Jewelry</a>
                                                 </h6>
@@ -328,8 +522,10 @@
                                         <div class="product-item">
                                             <figure class="product-thumb">
                                                 <a href="product-details.html">
-                                                    <img class="pri-img" src="assets/img/product/coc4.png" alt="product">
-                                                    <img class="sec-img" src="assets/img/product/coc4.png" alt="product">
+                                                    <img class="pri-img" src="assets/img/product/coc4.png"
+                                                        alt="product">
+                                                    <img class="sec-img" src="assets/img/product/coc4.png"
+                                                        alt="product">
                                                 </a>
                                                 <div class="product-badge">
                                                     <div class="product-label new">
@@ -339,13 +535,13 @@
                                                         <span>10%</span>
                                                     </div>
                                                 </div>
-                                                
+
                                                 <div class="cart-hover">
                                                     <button class="btn btn-cart">add to cart</button>
                                                 </div>
                                             </figure>
                                             <div class="product-caption text-center">
-                                                
+
                                                 <h6 class="product-name">
                                                     <a href="product-details.html">Perfect Diamond Jewelry</a>
                                                 </h6>
@@ -361,8 +557,10 @@
                                         <div class="product-item">
                                             <figure class="product-thumb">
                                                 <a href="product-details.html">
-                                                    <img class="pri-img" src="assets/img/product/coc5.png" alt="product">
-                                                    <img class="sec-img" src="assets/img/product/coc5.png" alt="product">
+                                                    <img class="pri-img" src="assets/img/product/coc5.png"
+                                                        alt="product">
+                                                    <img class="sec-img" src="assets/img/product/coc5.png"
+                                                        alt="product">
                                                 </a>
                                                 <div class="product-badge">
                                                     <div class="product-label new">
@@ -372,13 +570,13 @@
                                                         <span>10%</span>
                                                     </div>
                                                 </div>
-                                                
+
                                                 <div class="cart-hover">
                                                     <button class="btn btn-cart">add to cart</button>
                                                 </div>
                                             </figure>
                                             <div class="product-caption text-center">
-                                                
+
                                                 <h6 class="product-name">
                                                     <a href="product-details.html">Perfect Diamond Jewelry</a>
                                                 </h6>
@@ -397,8 +595,10 @@
                                         <div class="product-item">
                                             <figure class="product-thumb">
                                                 <a href="product-details.html">
-                                                    <img class="pri-img" src="assets/img/product/coc6.png" alt="product">
-                                                    <img class="sec-img" src="assets/img/product/coc6.png" alt="product">
+                                                    <img class="pri-img" src="assets/img/product/coc6.png"
+                                                        alt="product">
+                                                    <img class="sec-img" src="assets/img/product/coc6.png"
+                                                        alt="product">
                                                 </a>
                                                 <div class="product-badge">
                                                     <div class="product-label new">
@@ -409,16 +609,23 @@
                                                     </div>
                                                 </div>
                                                 <div class="button-group">
-                                                    <a href="wishlist.html" data-bs-toggle="tooltip" data-bs-placement="left" title="Add to wishlist"><i class="pe-7s-like"></i></a>
-                                                    <a href="compare.html" data-bs-toggle="tooltip" data-bs-placement="left" title="Add to Compare"><i class="pe-7s-refresh-2"></i></a>
-                                                    <a href="#" data-bs-toggle="modal" data-bs-target="#quick_view"><span data-bs-toggle="tooltip" data-bs-placement="left" title="Quick View"><i class="pe-7s-search"></i></span></a>
+                                                    <a href="wishlist.html" data-bs-toggle="tooltip"
+                                                        data-bs-placement="left" title="Add to wishlist"><i
+                                                            class="pe-7s-like"></i></a>
+                                                    <a href="compare.html" data-bs-toggle="tooltip"
+                                                        data-bs-placement="left" title="Add to Compare"><i
+                                                            class="pe-7s-refresh-2"></i></a>
+                                                    <a href="#" data-bs-toggle="modal"
+                                                        data-bs-target="#quick_view"><span data-bs-toggle="tooltip"
+                                                            data-bs-placement="left" title="Quick View"><i
+                                                                class="pe-7s-search"></i></span></a>
                                                 </div>
                                                 <div class="cart-hover">
                                                     <button class="btn btn-cart">add to cart</button>
                                                 </div>
                                             </figure>
                                             <div class="product-caption text-center">
-                                                
+
                                                 <h6 class="product-name">
                                                     <a href="product-details.html">Perfect Diamond Jewelry</a>
                                                 </h6>
@@ -434,8 +641,10 @@
                                         <div class="product-item">
                                             <figure class="product-thumb">
                                                 <a href="product-details.html">
-                                                    <img class="pri-img" src="assets/img/product/coc7.png" alt="product">
-                                                    <img class="sec-img" src="assets/img/product/coc7.png" alt="product">
+                                                    <img class="pri-img" src="assets/img/product/coc7.png"
+                                                        alt="product">
+                                                    <img class="sec-img" src="assets/img/product/coc7.png"
+                                                        alt="product">
                                                 </a>
                                                 <div class="product-badge">
                                                     <div class="product-label new">
@@ -446,16 +655,23 @@
                                                     </div>
                                                 </div>
                                                 <div class="button-group">
-                                                    <a href="wishlist.html" data-bs-toggle="tooltip" data-bs-placement="left" title="Add to wishlist"><i class="pe-7s-like"></i></a>
-                                                    <a href="compare.html" data-bs-toggle="tooltip" data-bs-placement="left" title="Add to Compare"><i class="pe-7s-refresh-2"></i></a>
-                                                    <a href="#" data-bs-toggle="modal" data-bs-target="#quick_view"><span data-bs-toggle="tooltip" data-bs-placement="left" title="Quick View"><i class="pe-7s-search"></i></span></a>
+                                                    <a href="wishlist.html" data-bs-toggle="tooltip"
+                                                        data-bs-placement="left" title="Add to wishlist"><i
+                                                            class="pe-7s-like"></i></a>
+                                                    <a href="compare.html" data-bs-toggle="tooltip"
+                                                        data-bs-placement="left" title="Add to Compare"><i
+                                                            class="pe-7s-refresh-2"></i></a>
+                                                    <a href="#" data-bs-toggle="modal"
+                                                        data-bs-target="#quick_view"><span data-bs-toggle="tooltip"
+                                                            data-bs-placement="left" title="Quick View"><i
+                                                                class="pe-7s-search"></i></span></a>
                                                 </div>
                                                 <div class="cart-hover">
                                                     <button class="btn btn-cart">add to cart</button>
                                                 </div>
                                             </figure>
                                             <div class="product-caption text-center">
-                                                
+
                                                 <h6 class="product-name">
                                                     <a href="product-details.html">Handmade Golden Necklace</a>
                                                 </h6>
@@ -471,8 +687,10 @@
                                         <div class="product-item">
                                             <figure class="product-thumb">
                                                 <a href="product-details.html">
-                                                    <img class="pri-img" src="assets/img/product/coc8.png" alt="product">
-                                                    <img class="sec-img" src="assets/img/product/coc8.png" alt="product">
+                                                    <img class="pri-img" src="assets/img/product/coc8.png"
+                                                        alt="product">
+                                                    <img class="sec-img" src="assets/img/product/coc8.png"
+                                                        alt="product">
                                                 </a>
                                                 <div class="product-badge">
                                                     <div class="product-label new">
@@ -483,16 +701,23 @@
                                                     </div>
                                                 </div>
                                                 <div class="button-group">
-                                                    <a href="wishlist.html" data-bs-toggle="tooltip" data-bs-placement="left" title="Add to wishlist"><i class="pe-7s-like"></i></a>
-                                                    <a href="compare.html" data-bs-toggle="tooltip" data-bs-placement="left" title="Add to Compare"><i class="pe-7s-refresh-2"></i></a>
-                                                    <a href="#" data-bs-toggle="modal" data-bs-target="#quick_view"><span data-bs-toggle="tooltip" data-bs-placement="left" title="Quick View"><i class="pe-7s-search"></i></span></a>
+                                                    <a href="wishlist.html" data-bs-toggle="tooltip"
+                                                        data-bs-placement="left" title="Add to wishlist"><i
+                                                            class="pe-7s-like"></i></a>
+                                                    <a href="compare.html" data-bs-toggle="tooltip"
+                                                        data-bs-placement="left" title="Add to Compare"><i
+                                                            class="pe-7s-refresh-2"></i></a>
+                                                    <a href="#" data-bs-toggle="modal"
+                                                        data-bs-target="#quick_view"><span data-bs-toggle="tooltip"
+                                                            data-bs-placement="left" title="Quick View"><i
+                                                                class="pe-7s-search"></i></span></a>
                                                 </div>
                                                 <div class="cart-hover">
                                                     <button class="btn btn-cart">add to cart</button>
                                                 </div>
                                             </figure>
                                             <div class="product-caption text-center">
-                                                
+
                                                 <h6 class="product-name">
                                                     <a href="product-details.html">Handmade Golden Necklace</a>
                                                 </h6>
@@ -508,8 +733,10 @@
                                         <div class="product-item">
                                             <figure class="product-thumb">
                                                 <a href="product-details.html">
-                                                    <img class="pri-img" src="assets/img/product/coc9.png" alt="product">
-                                                    <img class="sec-img" src="assets/img/product/coc9.png" alt="product">
+                                                    <img class="pri-img" src="assets/img/product/coc9.png"
+                                                        alt="product">
+                                                    <img class="sec-img" src="assets/img/product/coc9.png"
+                                                        alt="product">
                                                 </a>
                                                 <div class="product-badge">
                                                     <div class="product-label new">
@@ -520,16 +747,23 @@
                                                     </div>
                                                 </div>
                                                 <div class="button-group">
-                                                    <a href="wishlist.html" data-bs-toggle="tooltip" data-bs-placement="left" title="Add to wishlist"><i class="pe-7s-like"></i></a>
-                                                    <a href="compare.html" data-bs-toggle="tooltip" data-bs-placement="left" title="Add to Compare"><i class="pe-7s-refresh-2"></i></a>
-                                                    <a href="#" data-bs-toggle="modal" data-bs-target="#quick_view"><span data-bs-toggle="tooltip" data-bs-placement="left" title="Quick View"><i class="pe-7s-search"></i></span></a>
+                                                    <a href="wishlist.html" data-bs-toggle="tooltip"
+                                                        data-bs-placement="left" title="Add to wishlist"><i
+                                                            class="pe-7s-like"></i></a>
+                                                    <a href="compare.html" data-bs-toggle="tooltip"
+                                                        data-bs-placement="left" title="Add to Compare"><i
+                                                            class="pe-7s-refresh-2"></i></a>
+                                                    <a href="#" data-bs-toggle="modal"
+                                                        data-bs-target="#quick_view"><span data-bs-toggle="tooltip"
+                                                            data-bs-placement="left" title="Quick View"><i
+                                                                class="pe-7s-search"></i></span></a>
                                                 </div>
                                                 <div class="cart-hover">
                                                     <button class="btn btn-cart">add to cart</button>
                                                 </div>
                                             </figure>
                                             <div class="product-caption text-center">
-                                                
+
                                                 <h6 class="product-name">
                                                     <a href="product-details.html">Handmade Golden Necklace</a>
                                                 </h6>
@@ -545,8 +779,10 @@
                                         <div class="product-item">
                                             <figure class="product-thumb">
                                                 <a href="product-details.html">
-                                                    <img class="pri-img" src="assets/img/product/coc10.png" alt="product">
-                                                    <img class="sec-img" src="assets/img/product/coc10.png" alt="product">
+                                                    <img class="pri-img" src="assets/img/product/coc10.png"
+                                                        alt="product">
+                                                    <img class="sec-img" src="assets/img/product/coc10.png"
+                                                        alt="product">
                                                 </a>
                                                 <div class="product-badge">
                                                     <div class="product-label new">
@@ -557,16 +793,23 @@
                                                     </div>
                                                 </div>
                                                 <div class="button-group">
-                                                    <a href="wishlist.html" data-bs-toggle="tooltip" data-bs-placement="left" title="Add to wishlist"><i class="pe-7s-like"></i></a>
-                                                    <a href="compare.html" data-bs-toggle="tooltip" data-bs-placement="left" title="Add to Compare"><i class="pe-7s-refresh-2"></i></a>
-                                                    <a href="#" data-bs-toggle="modal" data-bs-target="#quick_view"><span data-bs-toggle="tooltip" data-bs-placement="left" title="Quick View"><i class="pe-7s-search"></i></span></a>
+                                                    <a href="wishlist.html" data-bs-toggle="tooltip"
+                                                        data-bs-placement="left" title="Add to wishlist"><i
+                                                            class="pe-7s-like"></i></a>
+                                                    <a href="compare.html" data-bs-toggle="tooltip"
+                                                        data-bs-placement="left" title="Add to Compare"><i
+                                                            class="pe-7s-refresh-2"></i></a>
+                                                    <a href="#" data-bs-toggle="modal"
+                                                        data-bs-target="#quick_view"><span data-bs-toggle="tooltip"
+                                                            data-bs-placement="left" title="Quick View"><i
+                                                                class="pe-7s-search"></i></span></a>
                                                 </div>
                                                 <div class="cart-hover">
                                                     <button class="btn btn-cart">add to cart</button>
                                                 </div>
                                             </figure>
                                             <div class="product-caption text-center">
-                                                
+
                                                 <h6 class="product-name">
                                                     <a href="product-details.html">Handmade Golden Necklace</a>
                                                 </h6>
@@ -579,7 +822,7 @@
                                         <!-- product item end -->
                                     </div>
                                 </div>
-                                
+
                             </div>
                             <!-- product tab content end -->
                         </div>
@@ -587,74 +830,6 @@
                 </div>
             </div>
         </section>
-        <!-- product area end -->
-
-        <!-- product banner statistics area start -->
-        <section class="product-banner-statistics">
-            <div class="container-fluid">
-                <div class="row">
-                    <div class="col-12">
-                        <div class="product-banner-carousel slick-row-10">
-                            <!-- banner single slide start -->
-                            <div class="banner-slide-item">
-                                <figure class="banner-statistics">
-                                    <a href="#">
-                                        <img src="assets/img/banner/bancoc1.png" alt="product banner">
-                                    </a>
-                                    
-                                </figure>
-                            </div>
-                            <!-- banner single slide start -->
-                            <!-- banner single slide start -->
-                            <div class="banner-slide-item">
-                                <figure class="banner-statistics">
-                                    <a href="#">
-                                        <img src="assets/img/banner/bancoc2.png" alt="product banner">
-                                    </a>
-                                    
-                                </figure>
-                            </div>
-                            <!-- banner single slide start -->
-                            <!-- banner single slide start -->
-                            <div class="banner-slide-item">
-                                <figure class="banner-statistics">
-                                    <a href="#">
-                                        <img src="assets/img/banner/bancoc3.png" alt="product banner">
-                                    </a>
-                                    
-                                </figure>
-                            </div>
-                            <!-- banner single slide start -->
-                            <!-- banner single slide start -->
-                            <div class="banner-slide-item">
-                                <figure class="banner-statistics">
-                                    <a href="#">
-                                        <img src="assets/img/banner/bancoc4.png" alt="product banner">
-                                    </a>
-                                    
-                                </figure>
-                            </div>
-                            <!-- banner single slide start -->
-                            <!-- banner single slide start -->
-                            <div class="banner-slide-item">
-                                <figure class="banner-statistics">
-                                    <a href="#">
-                                        <img src="assets/img/banner/bancoc5.png" alt="product banner">
-                                    </a>
-                                    
-                                </figure>
-                            </div>
-                            <!-- banner single slide start -->
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!-- product banner statistics area end -->
-
-        <!-- featured product area start -->
-        <!-- featured product area end -->
-
         <!-- testimonial area start -->
         <!-- testimonial area end -->
 
@@ -666,61 +841,61 @@
 
         <!-- brand logo area start -->
         <!-- <div class="brand-logo section-padding pt-0"> -->
-            <div class="container">
-                <div class="row">
-                    <div class="col-12">
-                        <div class="brand-logo-carousel slick-row-10 slick-arrow-style">
-                            <!-- single brand start -->
-                            <div class="brand-item">
-                                <a href="#">
-                                    <img src="assets/img/brand/1.png" alt="">
-                                </a>
-                            </div>
-                            <!-- single brand end -->
-
-                            <!-- single brand start -->
-                            <div class="brand-item">
-                                <a href="#">
-                                    <img src="assets/img/brand/2.png" alt="">
-                                </a>
-                            </div>
-                            <!-- single brand end -->
-
-                            <!-- single brand start -->
-                            <div class="brand-item">
-                                <a href="#">
-                                    <img src="assets/img/brand/3.png" alt="">
-                                </a>
-                            </div>
-                            <!-- single brand end -->
-
-                            <!-- single brand start -->
-                            <div class="brand-item">
-                                <a href="#">
-                                    <img src="assets/img/brand/4.png" alt="">
-                                </a>
-                            </div>
-                            <!-- single brand end -->
-
-                            <!-- single brand start -->
-                            <div class="brand-item">
-                                <a href="#">
-                                    <img src="assets/img/brand/5.png" alt="">
-                                </a>
-                            </div>
-                            <!-- single brand end -->
-
-                            <!-- single brand start -->
-                            <div class="brand-item">
-                                <a href="#">
-                                    <img src="assets/img/brand/6.png" alt="">
-                                </a>
-                            </div>
-                            <!-- single brand end -->
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <div class="brand-logo-carousel slick-row-10 slick-arrow-style">
+                        <!-- single brand start -->
+                        <div class="brand-item">
+                            <a href="#">
+                                <img src="assets/img/brand/1.png" alt="">
+                            </a>
                         </div>
+                        <!-- single brand end -->
+
+                        <!-- single brand start -->
+                        <div class="brand-item">
+                            <a href="#">
+                                <img src="assets/img/brand/2.png" alt="">
+                            </a>
+                        </div>
+                        <!-- single brand end -->
+
+                        <!-- single brand start -->
+                        <div class="brand-item">
+                            <a href="#">
+                                <img src="assets/img/brand/3.png" alt="">
+                            </a>
+                        </div>
+                        <!-- single brand end -->
+
+                        <!-- single brand start -->
+                        <div class="brand-item">
+                            <a href="#">
+                                <img src="assets/img/brand/4.png" alt="">
+                            </a>
+                        </div>
+                        <!-- single brand end -->
+
+                        <!-- single brand start -->
+                        <div class="brand-item">
+                            <a href="#">
+                                <img src="assets/img/brand/5.png" alt="">
+                            </a>
+                        </div>
+                        <!-- single brand end -->
+
+                        <!-- single brand start -->
+                        <div class="brand-item">
+                            <a href="#">
+                                <img src="assets/img/brand/6.png" alt="">
+                            </a>
+                        </div>
+                        <!-- single brand end -->
                     </div>
                 </div>
             </div>
+        </div>
         <!-- </div> -->
         <!-- brand logo area end -->
     </main>
@@ -808,7 +983,8 @@
                                         <i class="fa fa-check-circle"></i>
                                         <span>200 in stock</span>
                                     </div>
-                                    <p class="pro-desc">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna.</p>
+                                    <p class="pro-desc">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed
+                                        diam nonumy eirmod tempor invidunt ut labore et dolore magna.</p>
                                     <div class="quantity-cart-box d-flex align-items-center">
                                         <h6 class="option-title">qty:</h6>
                                         <div class="quantity">
@@ -820,9 +996,9 @@
                                     </div>
                                     <div class="useful-links">
                                         <a href="#" data-bs-toggle="tooltip" title="Compare"><i
-                                            class="pe-7s-refresh-2"></i>compare</a>
+                                                class="pe-7s-refresh-2"></i>compare</a>
                                         <a href="#" data-bs-toggle="tooltip" title="Wishlist"><i
-                                            class="pe-7s-like"></i>wishlist</a>
+                                                class="pe-7s-like"></i>wishlist</a>
                                     </div>
                                     <div class="like-icon">
                                         <a class="facebook" href="#"><i class="fa fa-facebook"></i>like</a>
@@ -954,4 +1130,5 @@
 
 
 <!-- Mirrored from htmldemo.net/corano/corano/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 29 Jun 2024 09:53:43 GMT -->
+
 </html>

@@ -29,7 +29,7 @@ match ($act) {
     // 'san-pham-theo-danh-muc' => (new ProductController())->productCategory(),
     'dang-nhap' => (new HomeController())->formDangNhap(),
     // 'check-dang-nhap' => (new HomeController())->dangNhap(),
-    // 'dang-ky' => (new HomeController())->formDangKy(),
+    'dang-ky' => (new HomeController())->formDangKy(),
     // 'check-dang-ky' => (new HomeController())->dangKy(),
     // 'dang-xuat' => (new HomeController())->logout(),
     // 'xoa-ghi-nho' => (new HomeController())->xoaCookie(),

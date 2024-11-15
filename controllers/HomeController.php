@@ -76,7 +76,7 @@ class HomeController
 
     public function formDangKy()
     {
-        $listCategory = $this->category->getAllCategory();
+        // $listCategory = $this->category->getAllCategory();
         require_once './views/formdangky.php';
         deleteSessionError();
     }

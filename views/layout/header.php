@@ -71,7 +71,7 @@
                                             </a>
                                             <ul class="dropdown-list">
                                                 <li><a href="<?= BASE_URL.'?act=dang-nhap'?>">login</a></li>
-                                                <li><a href="login-register.html">register</a></li>
+                                                <li><a href="<?= BASE_URL.'?act=dang-ky'?>">register</a></li>
                                                 <li><a href="my-account.html">my account</a></li>
                                             </ul>
                                         </li>
